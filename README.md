@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/gameworldx1/Summertime-Saga-new-Update/releases/tag/Lastversion">
-    <img src="https://img.shields.io/github/v/release/gameworldx1/Lastversion?color=ff69b4&label=Latest%20Version&logo=rocket&logoColor=white&style=for-the-badge" alt="Latest Release">
   </a>
 </p>
 
