@@ -8,7 +8,7 @@
 <h1 align="center">RL — Adult Games Launcher</h1>
 
 <p align="center">
-  <a href="https://github.com/gameworldx1/RL/releases/latest">
+  <a href="https://github.com/gameworldx1/Summertime-Saga-new-Update/releases/tag/Lastversion">
     <img 
       src="https://img.shields.io/badge/Download%20Latest%20Version-FF69B4?style=for-the-badge&logo=windows&logoColor=white&labelColor=2d2d2d" 
       alt="Download RL"
